@@ -1,0 +1,506 @@
+{
+    "Technical University of Dresden": {
+        "old": 276,
+        "old_str": "276-300 ",
+        "current": 135,
+        "current_str": 135,
+        "progress": 141
+    },
+    "Bogazici University": {
+        "old": 276,
+        "old_str": "276-300 ",
+        "current": 139,
+        "current_str": 139,
+        "progress": 137
+    },
+    "University of Technology Sydney": {
+        "old": 351,
+        "old_str": "351-400 ",
+        "current": 226,
+        "current_str": "226-250 ",
+        "progress": 125
+    },
+    "Middle East Technical University": {
+        "old": 201,
+        "old_str": "201-225 ",
+        "current": 85,
+        "current_str": 85,
+        "progress": 116
+    },
+    "Istanbul Technical University": {
+        "old": 276,
+        "old_str": "276-300 ",
+        "current": 165,
+        "current_str": 165,
+        "progress": 111
+    },
+    "University of Los Andes": {
+        "old": 351,
+        "old_str": "351-400 ",
+        "current": 251,
+        "current_str": "251-275 ",
+        "progress": 100
+    },
+    "University of Salento": {
+        "old": 351,
+        "old_str": "351-400 ",
+        "current": 251,
+        "current_str": "251-275 ",
+        "progress": 100
+    },
+    "University of T\u00fcbingen": {
+        "old": 201,
+        "old_str": "201-225 ",
+        "current": 113,
+        "current_str": 113,
+        "progress": 88
+    },
+    "Brunel University": {
+        "old": 301,
+        "old_str": "301-350 ",
+        "current": 226,
+        "current_str": "226-250 ",
+        "progress": 75
+    },
+    "York University": {
+        "old": 301,
+        "old_str": "301-350 ",
+        "current": 226,
+        "current_str": "226-250 ",
+        "progress": 75
+    },
+    "State University of New York at Albany": {
+        "old": 301,
+        "old_str": "301-350 ",
+        "current": 226,
+        "current_str": "226-250 ",
+        "progress": 75
+    },
+    "University of Basel": {
+        "old": 142,
+        "old_str": 142,
+        "current": 75,
+        "current_str": 75,
+        "progress": 67
+    },
+    "Brandeis University": {
+        "old": 201,
+        "old_str": "201-225 ",
+        "current": 147,
+        "current_str": 147,
+        "progress": 54
+    },
+    "Sungkyunkwan University": {
+        "old": 201,
+        "old_str": "201-225 ",
+        "current": 148,
+        "current_str": 148,
+        "progress": 53
+    },
+    "University of Duisburg-Essen": {
+        "old": 351,
+        "old_str": "351-400 ",
+        "current": 301,
+        "current_str": "301-350 ",
+        "progress": 50
+    },
+    "University of Valencia": {
+        "old": 351,
+        "old_str": "351-400 ",
+        "current": 301,
+        "current_str": "301-350 ",
+        "progress": 50
+    },
+    "Hong Kong Polytechnic University": {
+        "old": 251,
+        "old_str": "251-275 ",
+        "current": 201,
+        "current_str": "201-225 ",
+        "progress": 50
+    },
+    "University of Stirling": {
+        "old": 351,
+        "old_str": "351-400 ",
+        "current": 301,
+        "current_str": "301-350 ",
+        "progress": 50
+    },
+    "University of Warsaw": {
+        "old": 351,
+        "old_str": "351-400 ",
+        "current": 301,
+        "current_str": "301-350 ",
+        "progress": 50
+    },
+    "University of Jyvaskyla": {
+        "old": 351,
+        "old_str": "351-400 ",
+        "current": 301,
+        "current_str": "301-350 ",
+        "progress": 50
+    },
+    "University of Pavia": {
+        "old": 301,
+        "old_str": "301-350 ",
+        "current": 251,
+        "current_str": "251-275 ",
+        "progress": 50
+    },
+    "University of Oklahoma": {
+        "old": 351,
+        "old_str": "351-400 ",
+        "current": 301,
+        "current_str": "301-350 ",
+        "progress": 50
+    },
+    "University of Trieste": {
+        "old": 251,
+        "old_str": "251-275 ",
+        "current": 201,
+        "current_str": "201-225 ",
+        "progress": 50
+    },
+    "University of Houston": {
+        "old": 351,
+        "old_str": "351-400 ",
+        "current": 301,
+        "current_str": "301-350 ",
+        "progress": 50
+    },
+    "Deakin University": {
+        "old": 351,
+        "old_str": "351-400 ",
+        "current": 301,
+        "current_str": "301-350 ",
+        "progress": 50
+    },
+    "National University of Ireland, Galway": {
+        "old": 301,
+        "old_str": "301-350 ",
+        "current": 251,
+        "current_str": "251-275 ",
+        "progress": 50
+    },
+    "Charles Darwin University": {
+        "old": 351,
+        "old_str": "351-400 ",
+        "current": 301,
+        "current_str": "301-350 ",
+        "progress": 50
+    },
+    "Free University of Berlin": {
+        "old": 128,
+        "old_str": 128,
+        "current": 81,
+        "current_str": 81,
+        "progress": 47
+    },
+    "University of Glasgow": {
+        "old": 139,
+        "old_str": 139,
+        "current": 94,
+        "current_str": 94,
+        "progress": 45
+    },
+    "Colorado School of Mines": {
+        "old": 184,
+        "old_str": 184,
+        "current": 141,
+        "current_str": 141,
+        "progress": 43
+    },
+    "Queen Mary, University of London": {
+        "old": 145,
+        "old_str": 145,
+        "current": 107,
+        "current_str": 107,
+        "progress": 38
+    },
+    "University Pompeu Fabra": {
+        "old": 201,
+        "old_str": "201-225 ",
+        "current": 165,
+        "current_str": 165,
+        "progress": 36
+    },
+    "University of Western Australia": {
+        "old": 190,
+        "old_str": 190,
+        "current": 157,
+        "current_str": 157,
+        "progress": 33
+    },
+    "Technical University of Denmark": {
+        "old": 149,
+        "old_str": 149,
+        "current": 121,
+        "current_str": 121,
+        "progress": 28
+    },
+    "Florida Institute of Technology": {
+        "old": 226,
+        "old_str": "226-250 ",
+        "current": 200,
+        "current_str": 200,
+        "progress": 26
+    },
+    "University of Geneva": {
+        "old": 133,
+        "old_str": 133,
+        "current": 107,
+        "current_str": 107,
+        "progress": 26
+    },
+    "University of Bergen": {
+        "old": 226,
+        "old_str": "226-250 ",
+        "current": 201,
+        "current_str": "201-225 ",
+        "progress": 25
+    },
+    "Universit\u00e9 Libre de Bruxelles": {
+        "old": 226,
+        "old_str": "226-250 ",
+        "current": 201,
+        "current_str": "201-225 ",
+        "progress": 25
+    },
+    "Nanyang Technological University": {
+        "old": 86,
+        "old_str": 86,
+        "current": 61,
+        "current_str": 61,
+        "progress": 25
+    },
+    "Bilkent University": {
+        "old": 226,
+        "old_str": "226-250 ",
+        "current": 201,
+        "current_str": "201-225 ",
+        "progress": 25
+    },
+    "Korea University": {
+        "old": 226,
+        "old_str": "226-250 ",
+        "current": 201,
+        "current_str": "201-225 ",
+        "progress": 25
+    },
+    "Boston College": {
+        "old": 150,
+        "old_str": 150,
+        "current": 126,
+        "current_str": 126,
+        "progress": 24
+    },
+    "University of Miami": {
+        "old": 193,
+        "old_str": 193,
+        "current": 169,
+        "current_str": 169,
+        "progress": 24
+    },
+    "University of Victoria": {
+        "old": 196,
+        "old_str": 196,
+        "current": 173,
+        "current_str": 173,
+        "progress": 23
+    },
+    "University of Antwerp": {
+        "old": 192,
+        "old_str": 192,
+        "current": 170,
+        "current_str": 170,
+        "progress": 22
+    },
+    "University of Warwick": {
+        "old": 124,
+        "old_str": 124,
+        "current": 103,
+        "current_str": 103,
+        "progress": 21
+    },
+    "Stockholm University": {
+        "old": 117,
+        "old_str": 117,
+        "current": 98,
+        "current_str": 98,
+        "progress": 19
+    },
+    "University of M\u00fcnchen": {
+        "old": 48,
+        "old_str": 48,
+        "current": 29,
+        "current_str": 29,
+        "progress": 19
+    },
+    "University of Bern": {
+        "old": 151,
+        "old_str": 151,
+        "current": 132,
+        "current_str": 132,
+        "progress": 19
+    },
+    "Humboldt University of Berlin": {
+        "old": 99,
+        "old_str": 99,
+        "current": 80,
+        "current_str": 80,
+        "progress": 19
+    },
+    "King\u2019s College London": {
+        "old": 57,
+        "old_str": 57,
+        "current": 40,
+        "current_str": 40,
+        "progress": 17
+    },
+    "Korea Advanced Institute of Science and Technology": {
+        "old": 68,
+        "old_str": 68,
+        "current": 52,
+        "current_str": 52,
+        "progress": 16
+    },
+    "Monash University": {
+        "old": 99,
+        "old_str": 99,
+        "current": 83,
+        "current_str": 83,
+        "progress": 16
+    },
+    "KTH - Royal Institute of Technology": {
+        "old": 140,
+        "old_str": 140,
+        "current": 126,
+        "current_str": 126,
+        "progress": 14
+    },
+    "University of Maastricht": {
+        "old": 115,
+        "old_str": 115,
+        "current": 101,
+        "current_str": 101,
+        "progress": 14
+    },
+    "Hong Kong University of Science and Technology": {
+        "old": 65,
+        "old_str": 65,
+        "current": 51,
+        "current_str": 51,
+        "progress": 14
+    },
+    "University of California, Santa Cruz": {
+        "old": 122,
+        "old_str": 122,
+        "current": 109,
+        "current_str": 109,
+        "progress": 13
+    },
+    "University of Arizona": {
+        "old": 98,
+        "old_str": 98,
+        "current": 86,
+        "current_str": 86,
+        "progress": 12
+    },
+    "Michigan State University": {
+        "old": 94,
+        "old_str": 94,
+        "current": 82,
+        "current_str": 82,
+        "progress": 12
+    },
+    "Seoul National University": {
+        "old": 59,
+        "old_str": 59,
+        "current": 50,
+        "current_str": 50,
+        "progress": 9
+    },
+    "University of Heidelberg": {
+        "old": 78,
+        "old_str": 78,
+        "current": 70,
+        "current_str": 70,
+        "progress": 8
+    },
+    "Swiss Federal Institute of Technology Lausanne, EPFL": {
+        "old": 40,
+        "old_str": 40,
+        "current": 34,
+        "current_str": 34,
+        "progress": 6
+    },
+    "Duke University": {
+        "old": 23,
+        "old_str": 23,
+        "current": 18,
+        "current_str": 18,
+        "progress": 5
+    },
+    "London School of Economics": {
+        "old": 39,
+        "old_str": 39,
+        "current": 34,
+        "current_str": 34,
+        "progress": 5
+    },
+    "National University of Singapore": {
+        "old": 29,
+        "old_str": 29,
+        "current": 25,
+        "current_str": 25,
+        "progress": 4
+    },
+    "Tokyo City University": {
+        "old": 27,
+        "old_str": 27,
+        "current": 23,
+        "current_str": 23,
+        "progress": 4
+    },
+    "University of Illinois at Urbana-Champaign": {
+        "old": 33,
+        "old_str": 33,
+        "current": 29,
+        "current_str": 29,
+        "progress": 4
+    },
+    "University of Michigan - Ann Arbor": {
+        "old": 20,
+        "old_str": 20,
+        "current": 17,
+        "current_str": 17,
+        "progress": 3
+    },
+    "Harvard University": {
+        "old": 4,
+        "old_str": 4,
+        "current": 2,
+        "current_str": 2,
+        "progress": 2
+    },
+    "University of Cambridge": {
+        "old": 7,
+        "old_str": 7,
+        "current": 5,
+        "current_str": 5,
+        "progress": 2
+    },
+    "Yale University": {
+        "old": 11,
+        "old_str": 11,
+        "current": 9,
+        "current_str": 9,
+        "progress": 2
+    },
+    "University of California, Berkeley": {
+        "old": 9,
+        "old_str": 9,
+        "current": 8,
+        "current_str": 8,
+        "progress": 1
+    }
+}

@@ -1,0 +1,198 @@
+{
+    "University of Granada": {
+        "old": 401,
+        "old_str": "401-500 ",
+        "current": 301,
+        "current_str": "301-400 ",
+        "progress": 100
+    },
+    "Vrije Universiteit Brussel": {
+        "old": 401,
+        "old_str": "401-500 ",
+        "current": 301,
+        "current_str": "301-400 ",
+        "progress": 100
+    },
+    "University of Dundee": {
+        "old": 301,
+        "old_str": "301-400 ",
+        "current": 201,
+        "current_str": "201-300 ",
+        "progress": 100
+    },
+    "University of Belgrade": {
+        "old": 401,
+        "old_str": "401-500 ",
+        "current": 301,
+        "current_str": "301-400 ",
+        "progress": 100
+    },
+    "Swedish University of Agricultural Sciences": {
+        "old": 301,
+        "old_str": "301-400 ",
+        "current": 201,
+        "current_str": "201-300 ",
+        "progress": 100
+    },
+    "Autonomous University of Barcelona": {
+        "old": 301,
+        "old_str": "301-400 ",
+        "current": 201,
+        "current_str": "201-300 ",
+        "progress": 100
+    },
+    "Ecole Polytechnique": {
+        "old": 301,
+        "old_str": "301-400 ",
+        "current": 201,
+        "current_str": "201-300 ",
+        "progress": 100
+    },
+    "University of Nice-Sophia Antipolis": {
+        "old": 401,
+        "old_str": "401-500 ",
+        "current": 301,
+        "current_str": "301-400 ",
+        "progress": 100
+    },
+    "University of Perugia": {
+        "old": 401,
+        "old_str": "401-500 ",
+        "current": 301,
+        "current_str": "301-400 ",
+        "progress": 100
+    },
+    "Kobe University": {
+        "old": 301,
+        "old_str": "301-400 ",
+        "current": 201,
+        "current_str": "201-300 ",
+        "progress": 100
+    },
+    "University Pompeu Fabra": {
+        "old": 401,
+        "old_str": "401-500 ",
+        "current": 301,
+        "current_str": "301-400 ",
+        "progress": 100
+    },
+    "St. Petersburg State University": {
+        "old": 401,
+        "old_str": "401-500 ",
+        "current": 301,
+        "current_str": "301-400 ",
+        "progress": 100
+    },
+    "Beijing Normal University": {
+        "old": 401,
+        "old_str": "401-500 ",
+        "current": 301,
+        "current_str": "301-400 ",
+        "progress": 100
+    },
+    "University of Lisbon": {
+        "old": 401,
+        "old_str": "401-500 ",
+        "current": 301,
+        "current_str": "301-400 ",
+        "progress": 100
+    },
+    "Harbin Institute of Technology": {
+        "old": 401,
+        "old_str": "401-500 ",
+        "current": 301,
+        "current_str": "301-400 ",
+        "progress": 100
+    },
+    "King Abdulaziz University": {
+        "old": 301,
+        "old_str": "301-400 ",
+        "current": 201,
+        "current_str": "201-300 ",
+        "progress": 100
+    },
+    "Sun Yat-Sen University": {
+        "old": 301,
+        "old_str": "301-400 ",
+        "current": 201,
+        "current_str": "201-300 ",
+        "progress": 100
+    },
+    "Fudan University": {
+        "old": 201,
+        "old_str": "201-300 ",
+        "current": 151,
+        "current_str": "151-200 ",
+        "progress": 50
+    },
+    "University of Texas MD Anderson Cancer Center": {
+        "old": 151,
+        "old_str": "151-200 ",
+        "current": 101,
+        "current_str": "101-150 ",
+        "progress": 50
+    },
+    "King Saud University": {
+        "old": 201,
+        "old_str": "201-300 ",
+        "current": 151,
+        "current_str": "151-200 ",
+        "progress": 50
+    },
+    "Universit\u00e9 Libre de Bruxelles": {
+        "old": 151,
+        "old_str": "151-200 ",
+        "current": 101,
+        "current_str": "101-150 ",
+        "progress": 50
+    },
+    "Florida State University": {
+        "old": 201,
+        "old_str": "201-300 ",
+        "current": 151,
+        "current_str": "151-200 ",
+        "progress": 50
+    },
+    "Oregon State University": {
+        "old": 151,
+        "old_str": "151-200 ",
+        "current": 101,
+        "current_str": "101-150 ",
+        "progress": 50
+    },
+    "University of Heidelberg": {
+        "old": 62,
+        "old_str": 62,
+        "current": 54,
+        "current_str": 54,
+        "progress": 8
+    },
+    "Duke University": {
+        "old": 36,
+        "old_str": 36,
+        "current": 31,
+        "current_str": 31,
+        "progress": 5
+    },
+    "University Pierre et Marie Curie (Paris VI)": {
+        "old": 42,
+        "old_str": 42,
+        "current": 37,
+        "current_str": 37,
+        "progress": 5
+    },
+    "Swiss Federal Institute of Technology Zurich, ETHZ": {
+        "old": 23,
+        "old_str": 23,
+        "current": 20,
+        "current_str": 20,
+        "progress": 3
+    },
+    "University of California, Berkeley": {
+        "old": 4,
+        "old_str": 4,
+        "current": 3,
+        "current_str": 3,
+        "progress": 1
+    }
+}

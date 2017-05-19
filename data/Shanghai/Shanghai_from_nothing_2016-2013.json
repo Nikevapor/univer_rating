@@ -1,0 +1,222 @@
+{
+    "University of Minnesota - Twin Cities": {
+        "rank": 33,
+        "rank_str": 33
+    },
+    "Soochow University": {
+        "rank": 201,
+        "rank_str": "201-300 "
+    },
+    "Queensland University of Technology": {
+        "rank": 201,
+        "rank_str": "201-300 "
+    },
+    "Toulouse School of Economics": {
+        "rank": 201,
+        "rank_str": "201-300 "
+    },
+    "Deakin University": {
+        "rank": 201,
+        "rank_str": "201-300 "
+    },
+    "Aalborg University": {
+        "rank": 201,
+        "rank_str": "201-300 "
+    },
+    "University of Fribourg": {
+        "rank": 301,
+        "rank_str": "301-400 "
+    },
+    "University of Montpellier": {
+        "rank": 301,
+        "rank_str": "301-400 "
+    },
+    "University of Santiago de Compostela": {
+        "rank": 301,
+        "rank_str": "301-400 "
+    },
+    "University of Electronic Science and Technology of China": {
+        "rank": 301,
+        "rank_str": "301-400 "
+    },
+    "University of North Texas": {
+        "rank": 301,
+        "rank_str": "301-400 "
+    },
+    "University of Western Sydney": {
+        "rank": 301,
+        "rank_str": "301-400 "
+    },
+    "Chiba University": {
+        "rank": 301,
+        "rank_str": "301-400 "
+    },
+    "Rush University": {
+        "rank": 301,
+        "rank_str": "301-400 "
+    },
+    "East China University of Science and Technology": {
+        "rank": 301,
+        "rank_str": "301-400 "
+    },
+    "China University of Geosciences Wuhan": {
+        "rank": 301,
+        "rank_str": "301-400 "
+    },
+    "Polytechnic University of Catalonia": {
+        "rank": 301,
+        "rank_str": "301-400 "
+    },
+    "National University of Ireland, Galway": {
+        "rank": 301,
+        "rank_str": "301-400 "
+    },
+    "University of Rostock": {
+        "rank": 401,
+        "rank_str": "401-500 "
+    },
+    "University of Potsdam": {
+        "rank": 401,
+        "rank_str": "401-500 "
+    },
+    "University of Parma": {
+        "rank": 401,
+        "rank_str": "401-500 "
+    },
+    "Tokyo University of Science": {
+        "rank": 401,
+        "rank_str": "401-500 "
+    },
+    "St George\u0092s, University of London": {
+        "rank": 401,
+        "rank_str": "401-500 "
+    },
+    "University Paris-Sorbonne (Paris IV)": {
+        "rank": 401,
+        "rank_str": "401-500 "
+    },
+    "University of Aveiro": {
+        "rank": 401,
+        "rank_str": "401-500 "
+    },
+    "University of Minho": {
+        "rank": 401,
+        "rank_str": "401-500 "
+    },
+    "University of Stellenbosch": {
+        "rank": 401,
+        "rank_str": "401-500 "
+    },
+    "West Virginia University": {
+        "rank": 401,
+        "rank_str": "401-500 "
+    },
+    "Wuhan University of Technology": {
+        "rank": 401,
+        "rank_str": "401-500 "
+    },
+    "RMIT University": {
+        "rank": 401,
+        "rank_str": "401-500 "
+    },
+    "Vita-Salute San Raffaele University": {
+        "rank": 401,
+        "rank_str": "401-500 "
+    },
+    "University of Versailles Saint-Quentin-en-Yvelines": {
+        "rank": 401,
+        "rank_str": "401-500 "
+    },
+    "University of Salerno": {
+        "rank": 401,
+        "rank_str": "401-500 "
+    },
+    "University of Science, Malaysia": {
+        "rank": 401,
+        "rank_str": "401-500 "
+    },
+    "University of Tartu": {
+        "rank": 401,
+        "rank_str": "401-500 "
+    },
+    "University Rovira I Virgili Tarragona": {
+        "rank": 401,
+        "rank_str": "401-500 "
+    },
+    "Hong Kong Baptist University": {
+        "rank": 401,
+        "rank_str": "401-500 "
+    },
+    "Capital University of Medical Sciences": {
+        "rank": 401,
+        "rank_str": "401-500 "
+    },
+    "Donghua University, Shanghai": {
+        "rank": 401,
+        "rank_str": "401-500 "
+    },
+    "Ewha Womans University": {
+        "rank": 401,
+        "rank_str": "401-500 "
+    },
+    "Brunel University": {
+        "rank": 401,
+        "rank_str": "401-500 "
+    },
+    "Beijing University of Chemical Technology": {
+        "rank": 401,
+        "rank_str": "401-500 "
+    },
+    "Aalto University": {
+        "rank": 401,
+        "rank_str": "401-500 "
+    },
+    "Amirkabir University of Technology": {
+        "rank": 401,
+        "rank_str": "401-500 "
+    },
+    "Bangor University": {
+        "rank": 401,
+        "rank_str": "401-500 "
+    },
+    "Florida International University": {
+        "rank": 401,
+        "rank_str": "401-500 "
+    },
+    "Hunan University": {
+        "rank": 401,
+        "rank_str": "401-500 "
+    },
+    "Northeast Normal University": {
+        "rank": 401,
+        "rank_str": "401-500 "
+    },
+    "Novosibirsk State University": {
+        "rank": 401,
+        "rank_str": "401-500 "
+    },
+    "Ocean University of China": {
+        "rank": 401,
+        "rank_str": "401-500 "
+    },
+    "National University of Malaysia": {
+        "rank": 401,
+        "rank_str": "401-500 "
+    },
+    "Nanjing University of Science and Technology": {
+        "rank": 401,
+        "rank_str": "401-500 "
+    },
+    "Kaohsiung Medical University": {
+        "rank": 401,
+        "rank_str": "401-500 "
+    },
+    "Nanjing Medical University": {
+        "rank": 401,
+        "rank_str": "401-500 "
+    },
+    "Oklahoma State University": {
+        "rank": 401,
+        "rank_str": "401-500 "
+    }
+}

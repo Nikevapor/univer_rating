@@ -1,0 +1,884 @@
+{
+    "Harbin Institute of Technology": {
+        "old": 481,
+        "old_str": "481-490 ",
+        "current": 278,
+        "current_str": 278,
+        "progress": 203
+    },
+    "Birkbeck, University of London": {
+        "old": 431,
+        "old_str": "431-440 ",
+        "current": 280,
+        "current_str": 280,
+        "progress": 151
+    },
+    "Belarusian State University": {
+        "old": 491,
+        "old_str": "491-500 ",
+        "current": 354,
+        "current_str": 354,
+        "progress": 137
+    },
+    "University of St.Gallen": {
+        "old": 421,
+        "old_str": "421-430 ",
+        "current": 288,
+        "current_str": 288,
+        "progress": 133
+    },
+    "National Taiwan University of Science and Technology": {
+        "old": 371,
+        "old_str": 371,
+        "current": 243,
+        "current_str": 243,
+        "progress": 128
+    },
+    "Tomsk State University": {
+        "old": 491,
+        "old_str": "491-500 ",
+        "current": 377,
+        "current_str": 377,
+        "progress": 114
+    },
+    "University of Buenos Aires": {
+        "old": 198,
+        "old_str": 198,
+        "current": 85,
+        "current_str": 85,
+        "progress": 113
+    },
+    "North Carolina State University": {
+        "old": 388,
+        "old_str": 388,
+        "current": 277,
+        "current_str": 277,
+        "progress": 111
+    },
+    "University of Belgrano": {
+        "old": 461,
+        "old_str": "461-470 ",
+        "current": 352,
+        "current_str": 352,
+        "progress": 109
+    },
+    "University of Putra Malaysia": {
+        "old": 376,
+        "old_str": 376,
+        "current": 270,
+        "current_str": 270,
+        "progress": 106
+    },
+    "National Taiwan Normal University": {
+        "old": 411,
+        "old_str": "411-420 ",
+        "current": 310,
+        "current_str": 310,
+        "progress": 101
+    },
+    "V.N. Karazin Kharkiv National University": {
+        "old": 481,
+        "old_str": "481-490 ",
+        "current": 382,
+        "current_str": 382,
+        "progress": 99
+    },
+    "Pontifical Catholic University Argentina": {
+        "old": 401,
+        "old_str": "401-410 ",
+        "current": 310,
+        "current_str": 310,
+        "progress": 91
+    },
+    "University of Kent at Canterbury": {
+        "old": 451,
+        "old_str": "451-460 ",
+        "current": 366,
+        "current_str": 366,
+        "progress": 85
+    },
+    "National Research Nuclear University": {
+        "old": 481,
+        "old_str": "481-490 ",
+        "current": 401,
+        "current_str": "401-410 ",
+        "progress": 80
+    },
+    "School of Oriental and African Studies, University of London": {
+        "old": 331,
+        "old_str": 331,
+        "current": 252,
+        "current_str": 252,
+        "progress": 79
+    },
+    "Tongji University": {
+        "old": 393,
+        "old_str": 393,
+        "current": 315,
+        "current_str": 315,
+        "progress": 78
+    },
+    "University of Waikato": {
+        "old": 401,
+        "old_str": "401-410 ",
+        "current": 324,
+        "current_str": 324,
+        "progress": 77
+    },
+    "University Carlos III de Madrid": {
+        "old": 355,
+        "old_str": 355,
+        "current": 280,
+        "current_str": 280,
+        "progress": 75
+    },
+    "Ecole Normale Sup\u00e9rieure de Cachan": {
+        "old": 338,
+        "old_str": 338,
+        "current": 264,
+        "current_str": 264,
+        "progress": 74
+    },
+    "Indian Institute of Technology, Madras": {
+        "old": 322,
+        "old_str": 322,
+        "current": 249,
+        "current_str": 249,
+        "progress": 73
+    },
+    "Arizona State University": {
+        "old": 294,
+        "old_str": 294,
+        "current": 222,
+        "current_str": 222,
+        "progress": 72
+    },
+    "Swansea University": {
+        "old": 461,
+        "old_str": "461-470 ",
+        "current": 390,
+        "current_str": 390,
+        "progress": 71
+    },
+    "University of Technology Sydney": {
+        "old": 264,
+        "old_str": 264,
+        "current": 193,
+        "current_str": 193,
+        "progress": 71
+    },
+    "St Petersburg State Politecnical University": {
+        "old": 481,
+        "old_str": "481-490 ",
+        "current": 411,
+        "current_str": "411-420 ",
+        "progress": 70
+    },
+    "Al-Farabi Kazakh National University": {
+        "old": 305,
+        "old_str": 305,
+        "current": 236,
+        "current_str": 236,
+        "progress": 69
+    },
+    "Lincoln University": {
+        "old": 411,
+        "old_str": "411-420 ",
+        "current": 343,
+        "current_str": 343,
+        "progress": 68
+    },
+    "University of Wollongong": {
+        "old": 283,
+        "old_str": 283,
+        "current": 218,
+        "current_str": 218,
+        "progress": 65
+    },
+    "Vienna University of Technology": {
+        "old": 246,
+        "old_str": 246,
+        "current": 183,
+        "current_str": 183,
+        "progress": 63
+    },
+    "Indian Institute of Technology, Roorkee": {
+        "old": 461,
+        "old_str": "461-470 ",
+        "current": 399,
+        "current_str": 399,
+        "progress": 62
+    },
+    "Xi\u2019an Jiaotong University": {
+        "old": 379,
+        "old_str": 379,
+        "current": 318,
+        "current_str": 318,
+        "progress": 61
+    },
+    "Moscow Institute of Physics and Technology": {
+        "old": 411,
+        "old_str": "411-420 ",
+        "current": 350,
+        "current_str": 350,
+        "progress": 61
+    },
+    "Institute of Technology Bandung": {
+        "old": 461,
+        "old_str": "461-470 ",
+        "current": 401,
+        "current_str": "401-410 ",
+        "progress": 60
+    },
+    "Polytechnic University of Turin": {
+        "old": 365,
+        "old_str": 365,
+        "current": 305,
+        "current_str": 305,
+        "progress": 60
+    },
+    "Wuhan University": {
+        "old": 335,
+        "old_str": 335,
+        "current": 275,
+        "current_str": 275,
+        "progress": 60
+    },
+    "Bangor University": {
+        "old": 471,
+        "old_str": "471-480 ",
+        "current": 411,
+        "current_str": "411-420 ",
+        "progress": 60
+    },
+    "Chung-Ang University": {
+        "old": 441,
+        "old_str": "441-450 ",
+        "current": 386,
+        "current_str": 386,
+        "progress": 55
+    },
+    "Colorado State University": {
+        "old": 441,
+        "old_str": "441-450 ",
+        "current": 386,
+        "current_str": 386,
+        "progress": 55
+    },
+    "Aalto University": {
+        "old": 187,
+        "old_str": 187,
+        "current": 133,
+        "current_str": 133,
+        "progress": 54
+    },
+    "University of Surrey": {
+        "old": 314,
+        "old_str": 314,
+        "current": 261,
+        "current_str": 261,
+        "progress": 53
+    },
+    "City University of Hong Kong": {
+        "old": 108,
+        "old_str": 108,
+        "current": 55,
+        "current_str": 55,
+        "progress": 53
+    },
+    "RMIT University": {
+        "old": 304,
+        "old_str": 304,
+        "current": 252,
+        "current_str": 252,
+        "progress": 52
+    },
+    "King Abdulaziz University": {
+        "old": 334,
+        "old_str": 334,
+        "current": 283,
+        "current_str": 283,
+        "progress": 51
+    },
+    "Hong Kong Polytechnic University": {
+        "old": 162,
+        "old_str": 162,
+        "current": 111,
+        "current_str": 111,
+        "progress": 51
+    },
+    "Indian Institute of Technology, Delhi": {
+        "old": 235,
+        "old_str": 235,
+        "current": 185,
+        "current_str": 185,
+        "progress": 50
+    },
+    "Hankuk University of Foreign Studies": {
+        "old": 481,
+        "old_str": "481-490 ",
+        "current": 431,
+        "current_str": "431-440 ",
+        "progress": 50
+    },
+    "Moscow State Institute of International Relations": {
+        "old": 399,
+        "old_str": 399,
+        "current": 350,
+        "current_str": 350,
+        "progress": 49
+    },
+    "Rensselaer Polytechnic Institute": {
+        "old": 359,
+        "old_str": 359,
+        "current": 310,
+        "current_str": 310,
+        "progress": 49
+    },
+    "Hanyang University": {
+        "old": 219,
+        "old_str": 219,
+        "current": 171,
+        "current_str": 171,
+        "progress": 48
+    },
+    "Nanjing University": {
+        "old": 162,
+        "old_str": 162,
+        "current": 115,
+        "current_str": 115,
+        "progress": 47
+    },
+    "Victoria University of Wellington": {
+        "old": 275,
+        "old_str": 275,
+        "current": 228,
+        "current_str": 228,
+        "progress": 47
+    },
+    "National University de Colombia": {
+        "old": 316,
+        "old_str": 316,
+        "current": 269,
+        "current_str": 269,
+        "progress": 47
+    },
+    "National Autonomous University of Mexico": {
+        "old": 175,
+        "old_str": 175,
+        "current": 128,
+        "current_str": 128,
+        "progress": 47
+    },
+    "Monterrey Institute of Technology and Higher Education ": {
+        "old": 253,
+        "old_str": 253,
+        "current": 206,
+        "current_str": 206,
+        "progress": 47
+    },
+    "American University": {
+        "old": 431,
+        "old_str": "431-440 ",
+        "current": 384,
+        "current_str": 384,
+        "progress": 47
+    },
+    "Polytechnic University of Milan": {
+        "old": 229,
+        "old_str": 229,
+        "current": 183,
+        "current_str": 183,
+        "progress": 46
+    },
+    "National Technical University of Athens": {
+        "old": 441,
+        "old_str": "441-450 ",
+        "current": 395,
+        "current_str": 395,
+        "progress": 46
+    },
+    "University of South Australia": {
+        "old": 333,
+        "old_str": 333,
+        "current": 288,
+        "current_str": 288,
+        "progress": 45
+    },
+    "University of Science and Technology of China": {
+        "old": 147,
+        "old_str": 147,
+        "current": 104,
+        "current_str": 104,
+        "progress": 43
+    },
+    "Tampere University of Technology": {
+        "old": 362,
+        "old_str": 362,
+        "current": 319,
+        "current_str": 319,
+        "progress": 43
+    },
+    "Shanghai Jiao Tong University": {
+        "old": 104,
+        "old_str": 104,
+        "current": 61,
+        "current_str": 61,
+        "progress": 43
+    },
+    "Boston College": {
+        "old": 341,
+        "old_str": 341,
+        "current": 299,
+        "current_str": 299,
+        "progress": 42
+    },
+    "Hong Kong Baptist University": {
+        "old": 318,
+        "old_str": 318,
+        "current": 278,
+        "current_str": 278,
+        "progress": 40
+    },
+    "University of Essex": {
+        "old": 370,
+        "old_str": 370,
+        "current": 330,
+        "current_str": 330,
+        "progress": 40
+    },
+    "Royal Holloway, University of London": {
+        "old": 275,
+        "old_str": 275,
+        "current": 235,
+        "current_str": 235,
+        "progress": 40
+    },
+    "Rice University": {
+        "old": 129,
+        "old_str": 129,
+        "current": 90,
+        "current_str": 90,
+        "progress": 39
+    },
+    "Tilburg University": {
+        "old": 367,
+        "old_str": 367,
+        "current": 330,
+        "current_str": 330,
+        "progress": 37
+    },
+    "Novosibirsk State University": {
+        "old": 328,
+        "old_str": 328,
+        "current": 291,
+        "current_str": 291,
+        "progress": 37
+    },
+    "Chalmers University of Technology": {
+        "old": 175,
+        "old_str": 175,
+        "current": 139,
+        "current_str": 139,
+        "progress": 36
+    },
+    "Georgia Institute of Technology": {
+        "old": 107,
+        "old_str": 107,
+        "current": 71,
+        "current_str": 71,
+        "progress": 36
+    },
+    "King Fahd University of Petroleum & Minerals": {
+        "old": 225,
+        "old_str": 225,
+        "current": 189,
+        "current_str": 189,
+        "progress": 36
+    },
+    "University of Twente": {
+        "old": 212,
+        "old_str": 212,
+        "current": 177,
+        "current_str": 177,
+        "progress": 35
+    },
+    "Michigan State University": {
+        "old": 195,
+        "old_str": 195,
+        "current": 160,
+        "current_str": 160,
+        "progress": 35
+    },
+    "London School of Economics": {
+        "old": 71,
+        "old_str": 71,
+        "current": 37,
+        "current_str": 37,
+        "progress": 34
+    },
+    "Zhejiang University": {
+        "old": 144,
+        "old_str": 144,
+        "current": 110,
+        "current_str": 110,
+        "progress": 34
+    },
+    "University of Notre Dame": {
+        "old": 237,
+        "old_str": 237,
+        "current": 203,
+        "current_str": 203,
+        "progress": 34
+    },
+    "Sungkyunkwan University": {
+        "old": 140,
+        "old_str": 140,
+        "current": 106,
+        "current_str": 106,
+        "progress": 34
+    },
+    "Wageningen University & Research Center": {
+        "old": 151,
+        "old_str": 151,
+        "current": 119,
+        "current_str": 119,
+        "progress": 32
+    },
+    "University of Massachusetts, Amherst": {
+        "old": 282,
+        "old_str": 282,
+        "current": 251,
+        "current_str": 251,
+        "progress": 31
+    },
+    "University of Lancaster": {
+        "old": 160,
+        "old_str": 160,
+        "current": 129,
+        "current_str": 129,
+        "progress": 31
+    },
+    "National University of Ireland, Galway": {
+        "old": 280,
+        "old_str": 280,
+        "current": 249,
+        "current_str": 249,
+        "progress": 31
+    },
+    "Karlsruhe Institute of Technology": {
+        "old": 127,
+        "old_str": 127,
+        "current": 98,
+        "current_str": 98,
+        "progress": 29
+    },
+    "Technical University of Berlin": {
+        "old": 192,
+        "old_str": 192,
+        "current": 164,
+        "current_str": 164,
+        "progress": 28
+    },
+    "Fudan University": {
+        "old": 71,
+        "old_str": 71,
+        "current": 43,
+        "current_str": 43,
+        "progress": 28
+    },
+    "University of Canterbury": {
+        "old": 242,
+        "old_str": 242,
+        "current": 214,
+        "current_str": 214,
+        "progress": 28
+    },
+    "Loughborough University": {
+        "old": 265,
+        "old_str": 265,
+        "current": 237,
+        "current_str": 237,
+        "progress": 28
+    },
+    "National Chiao Tung University": {
+        "old": 202,
+        "old_str": 202,
+        "current": 174,
+        "current_str": 174,
+        "progress": 28
+    },
+    "University of Reading": {
+        "old": 202,
+        "old_str": 202,
+        "current": 175,
+        "current_str": 175,
+        "progress": 27
+    },
+    "Free University of Berlin": {
+        "old": 150,
+        "old_str": 150,
+        "current": 123,
+        "current_str": 123,
+        "progress": 27
+    },
+    "Eindhoven University of Technology": {
+        "old": 147,
+        "old_str": 147,
+        "current": 121,
+        "current_str": 121,
+        "progress": 26
+    },
+    "Nanyang Technological University": {
+        "old": 39,
+        "old_str": 39,
+        "current": 13,
+        "current_str": 13,
+        "progress": 26
+    },
+    "Delft University of Technology": {
+        "old": 86,
+        "old_str": 86,
+        "current": 62,
+        "current_str": 62,
+        "progress": 24
+    },
+    "Technical University of Dresden": {
+        "old": 234,
+        "old_str": 234,
+        "current": 210,
+        "current_str": 210,
+        "progress": 24
+    },
+    "Tsinghua University": {
+        "old": 47,
+        "old_str": 47,
+        "current": 24,
+        "current_str": 24,
+        "progress": 23
+    },
+    "Ohio State University": {
+        "old": 109,
+        "old_str": 109,
+        "current": 88,
+        "current_str": 88,
+        "progress": 21
+    },
+    "Pontifical Catholic University of Chile": {
+        "old": 167,
+        "old_str": 167,
+        "current": 147,
+        "current_str": 147,
+        "progress": 20
+    },
+    "University of Bath": {
+        "old": 179,
+        "old_str": 179,
+        "current": 159,
+        "current_str": 159,
+        "progress": 20
+    },
+    "University of California, San Diego": {
+        "old": 59,
+        "old_str": 59,
+        "current": 40,
+        "current_str": 40,
+        "progress": 19
+    },
+    "University of Durham": {
+        "old": 92,
+        "old_str": 92,
+        "current": 74,
+        "current_str": 74,
+        "progress": 18
+    },
+    "Peking University": {
+        "old": 57,
+        "old_str": 57,
+        "current": 39,
+        "current_str": 39,
+        "progress": 18
+    },
+    "Korea University": {
+        "old": 116,
+        "old_str": 116,
+        "current": 98,
+        "current_str": 98,
+        "progress": 18
+    },
+    "University of Malaya": {
+        "old": 151,
+        "old_str": 151,
+        "current": 133,
+        "current_str": 133,
+        "progress": 18
+    },
+    "Pennsylvania State University": {
+        "old": 112,
+        "old_str": 112,
+        "current": 95,
+        "current_str": 95,
+        "progress": 17
+    },
+    "University of Waterloo": {
+        "old": 169,
+        "old_str": 169,
+        "current": 152,
+        "current_str": 152,
+        "progress": 17
+    },
+    "Technical University of Denmark": {
+        "old": 123,
+        "old_str": 123,
+        "current": 109,
+        "current_str": 109,
+        "progress": 14
+    },
+    "University of California, Santa Barbara": {
+        "old": 132,
+        "old_str": 132,
+        "current": 118,
+        "current_str": 118,
+        "progress": 14
+    },
+    "KTH - Royal Institute of Technology": {
+        "old": 110,
+        "old_str": 110,
+        "current": 97,
+        "current_str": 97,
+        "progress": 13
+    },
+    "Tokyo Institute of Technology": {
+        "old": 68,
+        "old_str": 68,
+        "current": 56,
+        "current_str": 56,
+        "progress": 12
+    },
+    "University of Texas at Austin": {
+        "old": 79,
+        "old_str": 79,
+        "current": 67,
+        "current_str": 67,
+        "progress": 12
+    },
+    "University of Auckland": {
+        "old": 92,
+        "old_str": 92,
+        "current": 81,
+        "current_str": 81,
+        "progress": 11
+    },
+    "University of St. Andrews": {
+        "old": 88,
+        "old_str": 88,
+        "current": 77,
+        "current_str": 77,
+        "progress": 11
+    },
+    "National University of Singapore": {
+        "old": 22,
+        "old_str": 22,
+        "current": 12,
+        "current_str": 12,
+        "progress": 10
+    },
+    "University of Warwick": {
+        "old": 61,
+        "old_str": 61,
+        "current": 51,
+        "current_str": 51,
+        "progress": 10
+    },
+    "University of California, Davis": {
+        "old": 95,
+        "old_str": 95,
+        "current": 85,
+        "current_str": 85,
+        "progress": 10
+    },
+    "Northwestern University": {
+        "old": 34,
+        "old_str": 34,
+        "current": 26,
+        "current_str": 26,
+        "progress": 8
+    },
+    "National Taiwan University": {
+        "old": 76,
+        "old_str": 76,
+        "current": 68,
+        "current_str": 68,
+        "progress": 8
+    },
+    "Carnegie Mellon University": {
+        "old": 65,
+        "old_str": 65,
+        "current": 58,
+        "current_str": 58,
+        "progress": 7
+    },
+    "University of California, Los Angeles": {
+        "old": 37,
+        "old_str": 37,
+        "current": 31,
+        "current_str": 31,
+        "progress": 6
+    },
+    "Stanford University": {
+        "old": 7,
+        "old_str": 7,
+        "current": 2,
+        "current_str": 2,
+        "progress": 5
+    },
+    "Hong Kong University of Science and Technology": {
+        "old": 40,
+        "old_str": 40,
+        "current": 36,
+        "current_str": 36,
+        "progress": 4
+    },
+    "Swiss Federal Institute of Technology Zurich, ETHZ": {
+        "old": 12,
+        "old_str": 12,
+        "current": 8,
+        "current_str": 8,
+        "progress": 4
+    },
+    "California Institute of Technology, Caltech": {
+        "old": 8,
+        "old_str": 8,
+        "current": 5,
+        "current_str": 5,
+        "progress": 3
+    },
+    "Cornell University": {
+        "old": 19,
+        "old_str": 19,
+        "current": 16,
+        "current_str": 16,
+        "progress": 3
+    },
+    "Swiss Federal Institute of Technology Lausanne, EPFL": {
+        "old": 17,
+        "old_str": 17,
+        "current": 14,
+        "current_str": 14,
+        "progress": 3
+    },
+    "Australian National University": {
+        "old": 25,
+        "old_str": 25,
+        "current": 22,
+        "current_str": 22,
+        "progress": 3
+    },
+    "Harvard University": {
+        "old": 4,
+        "old_str": 4,
+        "current": 3,
+        "current_str": 3,
+        "progress": 1
+    }
+}

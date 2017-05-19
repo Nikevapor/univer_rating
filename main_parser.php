@@ -5,7 +5,9 @@ $time_start = microtime(true);
 
 $url = 'http://www.universityrankings.ch/';
 
-$links = file_get_contents('links.json');
+$rating_type = 'Times';
+
+$links = file_get_contents("links_$rating_type.json");
 
 $links = json_decode($links, true);
 
@@ -74,11 +76,12 @@ foreach ($links as $link) {
 }
 
 $data = json_encode($data, JSON_PRETTY_PRINT);
-$fp = fopen('data.json', 'w');
+$fp = fopen("data_$rating_type.json", 'w');
 fwrite($fp, $data);
 fclose($fp);
 
 $time_end = microtime(true);
 $time = $time_end - $time_start;
 echo "Process Time: {$time}";
-// Process time : 235.9746389389
+// Process time : 235.9746389389 QS
+// Process Time: 452.9172501564 Times
