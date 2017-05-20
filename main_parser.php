@@ -1,6 +1,6 @@
 <?php
 require('phpQuery/phpQuery/phpQuery.php');
-
+echo 's';
 $time_start = microtime(true);
 
 $url = 'http://www.universityrankings.ch/';
