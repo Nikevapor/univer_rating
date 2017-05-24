@@ -29,7 +29,9 @@ firefoxProfile = webdriver.FirefoxProfile('/home/raglyamov/.mozilla/firefox/9zrn
 browser_music = webdriver.Firefox(firefox_profile = firefoxProfile, executable_path = geckodriver_folder)
 
 data = {
-    'University of Lisbon': 'ulisboa.pt',
+    'National Research Nuclear University MEPhI': 'mephi.ru',
+    'Massachusetts Institute of Technology': "mit.edu"
+    # 'University of Lisbon': 'ulisboa.pt',
     # 'Indian Institute of Science': 'iisc.ernet.in',
     # 'University of Buenos Aires': 'uba.ar',
     # 'Sungkyunkwan University': 'skku.edu'
@@ -37,8 +39,10 @@ data = {
 output_data = {}
 for university_title in data:
     print university_title
+    max = 0
     univer_data = []
     workers_data = {}
+    exit_from_loop = False
     browser_music.get(url_base)
     sleep(1)
     search_form = browser_music.find_element_by_xpath(".//input[@class='gs_in_txt']")
@@ -49,7 +53,8 @@ for university_title in data:
     browser_music.find_element_by_xpath(".//div[@class='gs_ob_inst_r']/a").click()
     sleep(1)
     while (([] != browser_music.find_elements_by_xpath(".//div[@class='gsc_1usr_text']/div[@class='gsc_1usr_cby']")) and
-               (browser_music.find_element_by_xpath(".//button[@class='gs_btnPR gs_in_ib gs_btn_half gs_btn_srt']").get_attribute('disabled') == None) ):
+               (exit_from_loop == False) and
+               (browser_music.find_element_by_xpath(".//button[@class='gs_btnPR gs_in_ib gs_btn_half gs_btn_srt']").get_attribute('disabled') is None)):
         try:
             page = browser_music.current_url
             print page
@@ -72,7 +77,10 @@ for university_title in data:
                 last_five = {}
                 rows = browser_music.find_elements_by_xpath("(.//table[@id='gsc_rsb_st']//tr)[position() > 1]")
                 overall['cit_num'] = rows[0].find_elements_by_tag_name('td')[1].get_attribute('innerHTML')
-                if (overall['cit_num'] == 0):
+                if (max < int(overall['cit_num'])):
+                    max = int(overall['cit_num'])
+                if (int(overall['cit_num']) < max // 100):
+                    exit_from_loop = True
                     break
                 last_five['cit_num'] = rows[0].find_elements_by_tag_name('td')[2].get_attribute('innerHTML')
                 overall['h_index'] = rows[1].find_elements_by_tag_name('td')[1].get_attribute('innerHTML')
@@ -90,8 +98,9 @@ for university_title in data:
                 workers_data[worker_name] = worker_common
             browser_music.get(page)
             sleep(1)
-            browser_music.find_element_by_xpath(".//button[@class='gs_btnPR gs_in_ib gs_btn_half gs_btn_srt']").click()
-            sleep(1)
+            if (exit_from_loop == False):
+                browser_music.find_element_by_xpath(".//button[@class='gs_btnPR gs_in_ib gs_btn_half gs_btn_srt']").click()
+                sleep(1)
         except BaseException:
             print ('Ошибка в ' + university_title + worker_name)
 
@@ -104,14 +113,13 @@ for university_title in data:
 
     output_data[university_title] = univer_data
     print output_data
-
-
-with open('data_scholar_google.json', 'w') as outfile:
-    json.dump(output_data, outfile)
-
+    with open('data_scholar_' + university_title + '.json', 'w') as outfile:
+        json.dump(output_data, outfile)
 
 browser_music.close()
 
 end = time()
 
 print end - start
+
+# Process time: 4062.9746

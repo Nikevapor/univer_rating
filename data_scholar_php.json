@@ -1,0 +1,77 @@
+{
+    "Ana M Sebastiao": {
+        "stat": {
+            "overall": {
+                "cit_num": "7816",
+                "h_index": "49",
+                "i10_index": "112"
+            },
+            "last_five": {
+                "cit_num": "3226",
+                "h_index": "31",
+                "i10_index": "86"
+            }
+        },
+        "cites": null
+    },
+    "M\u00f3nica C. Silva": {
+        "stat": {
+            "overall": {
+                "cit_num": "7795",
+                "h_index": "35",
+                "i10_index": "226"
+            },
+            "last_five": {
+                "cit_num": "4356",
+                "h_index": "26",
+                "i10_index": "115"
+            }
+        },
+        "cites": null
+    },
+    "Mamede de Carvalho": {
+        "stat": {
+            "overall": {
+                "cit_num": "6846",
+                "h_index": "39",
+                "i10_index": "122"
+            },
+            "last_five": {
+                "cit_num": "4343",
+                "h_index": "30",
+                "i10_index": "95"
+            }
+        },
+        "cites": null
+    },
+    "Henrique Cabral": {
+        "stat": {
+            "overall": {
+                "cit_num": "6805",
+                "h_index": "47",
+                "i10_index": "188"
+            },
+            "last_five": {
+                "cit_num": "4554",
+                "h_index": "35",
+                "i10_index": "158"
+            }
+        },
+        "cites": null
+    },
+    "Francisco S. N. Lobo": {
+        "stat": {
+            "overall": {
+                "cit_num": "6768",
+                "h_index": "48",
+                "i10_index": "117"
+            },
+            "last_five": {
+                "cit_num": "4737",
+                "h_index": "39",
+                "i10_index": "109"
+            }
+        },
+        "cites": null
+    }
+}
