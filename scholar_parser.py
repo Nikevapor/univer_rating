@@ -29,7 +29,7 @@ firefoxProfile = webdriver.FirefoxProfile('/home/raglyamov/.mozilla/firefox/9zrn
 browser_music = webdriver.Firefox(firefox_profile = firefoxProfile, executable_path = geckodriver_folder)
 
 data = {
-    'National Research Nuclear University MEPhI': 'mephi.ru',
+    # 'National Research Nuclear University MEPhI': 'mephi.ru',
     'Massachusetts Institute of Technology': "mit.edu"
     # 'University of Lisbon': 'ulisboa.pt',
     # 'Indian Institute of Science': 'iisc.ernet.in',
@@ -43,18 +43,19 @@ for university_title in data:
     univer_data = []
     workers_data = {}
     exit_from_loop = False
-    browser_music.get(url_base)
-    sleep(1)
-    search_form = browser_music.find_element_by_xpath(".//input[@class='gs_in_txt']")
-    button_form = browser_music.find_element_by_xpath(".//button[@id='gs_hp_tsb']")
-    search_form.send_keys(university_title)
-    button_form.click()
-    sleep(1)
-    browser_music.find_element_by_xpath(".//div[@class='gs_ob_inst_r']/a").click()
-    sleep(1)
+    # browser_music.get(url_base)
+    # sleep(1)
+    # search_form = browser_music.find_element_by_xpath(".//input[@class='gs_in_txt']")
+    # button_form = browser_music.find_element_by_xpath(".//button[@id='gs_hp_tsb']")
+    # search_form.send_keys(university_title)
+    # button_form.click()
+    # sleep(1)
+    # browser_music.find_element_by_xpath(".//div[@class='gs_ob_inst_r']/a").click()
+    browser_music.get("https://scholar.google.ru/citations?view_op=view_org&hl=ru&org=16345133980181568013&after_author=-txPADX___8J&astart=2020")
+    sleep(1.2)
     while (([] != browser_music.find_elements_by_xpath(".//div[@class='gsc_1usr_text']/div[@class='gsc_1usr_cby']")) and
-               (exit_from_loop == False) and
-               (browser_music.find_element_by_xpath(".//button[@class='gs_btnPR gs_in_ib gs_btn_half gs_btn_srt']").get_attribute('disabled') is None)):
+               (exit_from_loop == False)):
+
         try:
             page = browser_music.current_url
             print page
@@ -64,7 +65,7 @@ for university_title in data:
                 links.append(name.get_attribute('href'))
             for link in links:
                 browser_music.get(link)
-                sleep(1.5)
+                sleep(2)
                 worker_name = browser_music.find_element_by_xpath(".//div[@id='gsc_prf_in']").get_attribute('innerHTML')
                 index_cit = browser_music.find_element_by_xpath(".//th[@class='gsc_rsb_sc1']/a").click()
                 sleep(0.5)
@@ -79,7 +80,7 @@ for university_title in data:
                 overall['cit_num'] = rows[0].find_elements_by_tag_name('td')[1].get_attribute('innerHTML')
                 if (max < int(overall['cit_num'])):
                     max = int(overall['cit_num'])
-                if (int(overall['cit_num']) < max // 100):
+                if (int(overall['cit_num']) < 25):
                     exit_from_loop = True
                     break
                 last_five['cit_num'] = rows[0].find_elements_by_tag_name('td')[2].get_attribute('innerHTML')
@@ -97,10 +98,12 @@ for university_title in data:
                 worker_common['cites'] = worker_cites
                 workers_data[worker_name] = worker_common
             browser_music.get(page)
-            sleep(1)
+            sleep(2)
+            if (browser_music.find_element_by_xpath(".//button[@class='gs_btnPR gs_in_ib gs_btn_half gs_btn_srt']") is None):
+                break
             if (exit_from_loop == False):
                 browser_music.find_element_by_xpath(".//button[@class='gs_btnPR gs_in_ib gs_btn_half gs_btn_srt']").click()
-                sleep(1)
+                sleep(2)
         except BaseException:
             print ('Ошибка в ' + university_title + worker_name)
 
@@ -112,8 +115,7 @@ for university_title in data:
         univer_data.append(workers_data)
 
     output_data[university_title] = univer_data
-    print output_data
-    with open('data_scholar_' + university_title + '.json', 'w') as outfile:
+    with open('data_scholar_' + university_title + '3.json', 'w') as outfile:
         json.dump(output_data, outfile)
 
 browser_music.close()
@@ -123,3 +125,6 @@ end = time()
 print end - start
 
 # Process time: 4062.9746
+# 150.852161884 - mephi
+# 12874.8197289 - mit
+# 49298.9019611 - mit2
