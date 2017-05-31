@@ -19,12 +19,12 @@ for ($i = 2011; $i < 2016; $i++) {
             return ($b['progress'] - $a['progress']);
         });
         $data_new = json_encode($array_top_from_nothing, JSON_PRETTY_PRINT);
-        $fp = fopen($rating_type . "_from_nothing_$j-$i.json", 'w');
+        $fp = fopen("data/$rating_type/20/" . $rating_type . "_from_nothing_$j-$i.json", 'w');
         fwrite($fp, $data_new);
         fclose($fp);
 
         $data_progress = json_encode($array_top_progress, JSON_PRETTY_PRINT);
-        $fp_progress = fopen($rating_type ."_progress_$j-$i.json", 'w');
+        $fp_progress = fopen("data/$rating_type/20/" . $rating_type ."_progress_$j-$i.json", 'w');
         fwrite($fp_progress, $data_progress);
         fclose($fp_progress);
     }
@@ -48,7 +48,7 @@ function get_ranks($universities, $rating_type, $year1, $year2)
                         $top_from_nothing[$title]['rank'] = (int)$r2;
                         $top_from_nothing[$title]['rank_str'] = $r2;
                     }
-                    elseif ((((int)$r2 - (int)$r1) < 0) && ((int)$r1 - (int)$r2 >= (int)$r1 / 10)) {
+                    elseif ((((int)$r2 - (int)$r1) < 0) && ((int)$r1 - (int)$r2 >= (int)$r1 / 3)) {
                         print $title . ": ";
                         print "it was $r1 in $title_rating $year1, but now in $year2 it is $r2 in $title_rating $year2";
                         print "\n";
