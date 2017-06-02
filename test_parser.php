@@ -1,7 +1,7 @@
 <?php
 require('phpQuery/phpQuery/phpQuery.php');
 $time_start = microtime(true);
-$urls_json = file_get_contents("data_scholar_links.json");
+$urls_json = file_get_contents("data_scholar_links_msc.json");
 $urls_json = json_decode($urls_json, true);
 $data = [];
 foreach ($urls_json as $title=>$links) {

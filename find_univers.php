@@ -48,7 +48,7 @@ function get_ranks($universities, $rating_type, $year1, $year2)
                         $top_from_nothing[$title]['rank'] = (int)$r2;
                         $top_from_nothing[$title]['rank_str'] = $r2;
                     }
-                    elseif ((((int)$r2 - (int)$r1) < 0) && ((int)$r1 - (int)$r2 >= (int)$r1 / 3)) {
+                    elseif ((((int)$r2 - (int)$r1) < 0) && ((int)$r1 - (int)$r2 >= (int)$r1 / 4)) {
                         print $title . ": ";
                         print "it was $r1 in $title_rating $year1, but now in $year2 it is $r2 in $title_rating $year2";
                         print "\n";

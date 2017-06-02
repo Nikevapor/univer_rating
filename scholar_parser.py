@@ -29,7 +29,7 @@ firefoxProfile = webdriver.FirefoxProfile('/home/raglyamov/.mozilla/firefox/9zrn
 browser_music = webdriver.Firefox(firefox_profile = firefoxProfile, executable_path = geckodriver_folder)
 
 data = {
-    'Kazan Federal University': 'kpfu.ru',
+    # 'Kazan Federal University': 'kpfu.ru',
     # 'National Research Nuclear University MEPhI': 'mephi.ru',
     # 'Massachusetts Institute of Technology': "mit.edu"
     # 'University of Lisbon': 'ulisboa.pt',

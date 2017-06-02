@@ -6,7 +6,7 @@ for ($i = 1; $i < 5; $i++) {
     $mit = json_decode($mit, true);
     $mit_overall = array_merge($mit, $mit_overall);
 }
-$mephi = file_get_contents("data_scholar_National Research Nuclear University MEPhI.json");
+$mephi = file_get_contents("scholar_Gwangju Institute of Science and Technology.json");
 $mephi = json_decode($mephi, true);
 
 
@@ -17,10 +17,8 @@ $sum = 0;
 $arr = [];
 
 check_cites(2008, 2013, $kfu);
-check_cites(2008, 2013, $mephi);
-check_cites(2008, 2013, $mit_overall);
-
-echo 730/445 ."\n";
+check_cites(2012, 2017, $mephi);
+check_cites(2012, 2017, $mit_overall);
 
 check_h_index($kfu);
 check_h_index($mephi);

@@ -29,9 +29,12 @@ firefoxProfile = webdriver.FirefoxProfile('/home/raglyamov/.mozilla/firefox/9zrn
 browser_music = webdriver.Firefox(firefox_profile = firefoxProfile, executable_path = geckodriver_folder)
 
 data = {
-    'Harvard University': 'harvard.edu',
-    'Lomonosov Moscow State University': 'msu.ru',
-    'Kazan Federal University': 'kpfu.ru',
+    "Moscow Institute of Physics and Technology": "f",
+    # "Harbin Institute of Technology": 'f'
+    # "Gwangju Institute of Science and Technology": 'gist.ac.kr'
+    # 'Harvard University': 'harvard.edu',
+    # 'Lomonosov Moscow State University': 'msu.ru',
+    # 'Kazan Federal University': 'kpfu.ru',
     # 'University of Lisbon': 'ulisboa.pt',
     # 'Indian Institute of Science': 'iisc.ernet.in',
     # 'University of Buenos Aires': 'uba.ar',
@@ -48,7 +51,7 @@ for university_title in data:
     button_form = browser_music.find_element_by_xpath(".//button[@id='gs_hp_tsb']")
     search_form.send_keys(university_title)
     button_form.click()
-    sleep(1)
+    sleep(2)
     browser_music.find_element_by_xpath(".//div[@class='gs_ob_inst_r']/a").click()
     sleep(1)
     links = []
@@ -72,7 +75,7 @@ for university_title in data:
 
     output_data[university_title] = links
 
-with open('data_scholar_links.json', 'w') as outfile:
+with open('data_scholar_links_msc.json', 'w') as outfile:
     json.dump(output_data, outfile)
 
 
